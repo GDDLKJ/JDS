@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://github.com/GDDLKJ/JDS/raw/master/iPhoneIcon/appicon_114.png</string>
+					<string>http://183.56.204.29:8089/Download/iPhoneIcon/appicon_114.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://github.com/GDDLKJ/JDS/raw/master/iPhoneIcon/appicon_57.png</string>
+					<string>http://183.56.204.29:8089/Download/iPhoneIcon/appicon_57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
